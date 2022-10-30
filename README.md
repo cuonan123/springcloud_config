@@ -1,0 +1,2 @@
+# springcloud_config
+这是我的SpringCloud的分布式配置中心Config。
